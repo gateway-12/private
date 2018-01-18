@@ -1,2 +1,1 @@
-http 0.tcp.ngrok.io 13426
 end
