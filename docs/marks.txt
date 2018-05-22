@@ -1,2 +1,3 @@
+shell 0.tcp.ngrok.io 14924
 tcp 0.tcp.ngrok.io 19542
 end
