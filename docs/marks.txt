@@ -1,2 +1,1 @@
-shell 0.tcp.ngrok.io 10777
 end
